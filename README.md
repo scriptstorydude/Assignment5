@@ -3,7 +3,7 @@
 This is a practical application assignment that focuses on using data analysis skills, in an effort to seek answers to the question based on survey results: **“Will a driving customer accept the coupon if offered for visiting a restaurant/bar/coffee shop on their way to a destination?”**
 
 ### Link to Explore Notebook: 
-[Explore Coupon Acceptance Factors by Vehicle Drivers](https://github.com/seetharamanr86/customer_coupon_acceptance/blob/main/Explore-Coupon-Acceptance-Factors-by-Vehicle-Drivers.ipynb)
+[Explore Coupon Acceptance Factors by Vehicle Drivers](https://github.com/scriptstorydude/Assignment5/blob/main/Customer_Coupon_Acceptance.ipynb)
 
 ### Data Used: 
 [In-Vehicle Coupon Recommendation](https://archive.ics.uci.edu/dataset/603/in+vehicle+coupon+recommendation)
